@@ -9,8 +9,11 @@
 - 🧠 Fun fact: I sleep like a cat 🐱, code like a night owl 🦉, and write thoughts like a poet ✍️📖
 
 
+<h3 align="left">
+  <u><b> 💻 Tech Stack I Use</b></u> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40">
+</h3>
 
-### 🛠️ Tech Stack I Use:
+<hr/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=for-the-badge" height="28" />
@@ -21,14 +24,40 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="28" />
 </p>
 
+<hr/>
+
+
 
 
 <!---
+### 📊 GitHub Stats:
 Zinuk-webDev-BD/Zinuk-webDev-BD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zinuk-webDev-BD&count_private=true&show_icons=true&theme=radical)
+<h3 align="left">
+  <u><b>📊 GitHub Stats</b></u> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40">
+</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zinuk-webDev-BD&layout=compact&theme=radical)
+<hr/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zinuk-webDev-BD&show_icons=true&theme=radical&count_private=true" height="180" />
+  
+</p>
+
+<hr/> 
+
+<h3 align="left">
+  <u><b>💻 Most Used Languages</b></u> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+</h3>
+
+<hr/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinuk-webDev-BD&layout=compact&theme=radical" height="200"/>
+</p>
+
+<hr/>
+
 
 
