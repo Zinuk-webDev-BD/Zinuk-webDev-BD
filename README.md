@@ -1,63 +1,109 @@
-- 👋 Hey there! I’m @Zinuk-webDev-BD — a passionate Frontend Developer from Bangladesh 🇧🇩  
-- 🎨 I turn coffee ☕, code 💻, and creativity ✨ into beautiful, responsive websites  
-- 👀 Always curious about new web trends, animations, and clean UI/UX design  
-- 🌱 Currently sharpening my skills in React.js, Bootstrap, and turning Figma designs into pixel-perfect web pages  
-- 🤝 Open to collaborating on creative frontend projects, portfolio sites, or anything that makes the web a better place  
-- 📫 Reach me anytime: zinuk.web.dev.bd@gmail.com
- 
-- 😄 Pronouns: She/Her
-- 🧠 Fun fact: I sleep like a cat 🐱, code like a night owl 🦉, and write thoughts like a poet ✍️📖
+# Hi there 👋 I'm Zinuk
 
+<div align="center">
 
-<h3 align="left">
-  <u><b> 💻 Tech Stack I Use</b></u> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40">
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer+from+Bangladesh+🇧🇩;React.js+%7C+Next.js+Learner;Passionate+About+Clean+UI%2FUX+✨;Building+Modern+Web+Experiences+💻" />
 
-<hr/>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=fff&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="28" />
-</p>
+---
 
-<hr/>
+# 💫 About Me
 
+✨ Passionate Frontend Developer who loves building modern and responsive web applications
 
+💻 Currently learning and improving skills in React.js, Next.js, and full-stack development
 
+🎨 Interested in clean UI/UX design, animations, and pixel-perfect frontend experiences
 
-<!---
-### 📊 GitHub Stats:
-Zinuk-webDev-BD/Zinuk-webDev-BD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h3 align="left">
-  <u><b>📊 GitHub Stats</b></u> <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40">
-</h3>
+🚀 Love transforming Figma designs into interactive websites
 
-<hr/>
+🤝 Open to collaboration on creative frontend and React projects
+
+🌱 Constantly learning new technologies and improving coding skills
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-  <img src=https://github-readme-stats.vercel.app/api?username=Zinuk-webDev-BD&show_icons=true&theme=radical&count_private=true height="180" />
-  
+<a href="https://linkedin.com/in/zinuk-web-dev-6a888b35b" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:zinuk.web.dev.bd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Zinuk-webDev-BD">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
-<hr/> 
+---
 
-<h3 align="left">
-  <u><b>💻 Most Used Languages</b></u> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-</h3>
-
-<hr/>
+# 💻 Tech Stack
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinuk-webDev-BD&layout=compact&theme=radical" height="200"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,nodejs,mongodb,firebase,git,github,vscode,figma" />
+
 </p>
 
-<hr/>
+---
 
+# 🚀 Featured Projects
 
+## 🛒 E-Commerce Project
 
+Modern responsive e-commerce frontend built with React.js featuring cart system, routing, and clean UI design.
+
+## 📝 Notes App
+
+Realtime notes management app with Firebase integration including add, delete, update, and restore features.
+
+## 🌐 Portfolio Website
+
+Animated personal portfolio showcasing projects, skills, and frontend creativity.
+
+## ✅ Task Manager
+
+Task management web application with responsive UI and CRUD functionality.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zinuk-webDev-BD&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zinuk-webDev-BD&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinuk-webDev-BD&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zinuk-webDev-BD&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
+
+---
+
+# ✨ Fun Fact
+
+☕ I turn coffee, creativity, and code into beautiful web experiences ✨
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 💜
+
+</div>
