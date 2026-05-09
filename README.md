@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Zinuk%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # Hi there 👋 I'm Zinuk
 
 <div align="center">
@@ -54,6 +56,15 @@
 
 </p>
 
+---
+
+# 👀 Visitor Counter
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=Zinuk-webDev-BD&label=Profile%20Views&color=blueviolet&style=flat" />
+
+</p>
 
 ---
 
@@ -64,6 +75,16 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,nodejs,mongodb,firebase,git,github,vscode,figma" />
 
 </p>
+
+---
+
+# 🎯 Currently Working On
+
+* 🌱 Learning Next.js & Backend Development
+* ⚡ Building Modern React Projects
+* 🎨 Improving UI/UX & Animations
+* 🧠 Practicing Problem Solving
+* 🚀 Exploring Full Stack Development
 
 ---
 
@@ -101,7 +122,40 @@ Task management web application with responsive UI and CRUD functionality.
 
 ---
 
+# 🏆 GitHub Achievements
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zinuk-webDev-BD&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Zinuk-webDev-BD/Zinuk-webDev-BD/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🧠 Fun Zone
+
+* 🦉 Night Owl Coder
+* ☕ Coffee + Code = Happiness
+* 🎧 Coding feels better with music
+* ✨ Obsessed with clean UI & smooth animations
+
+---
+
+# ✨ Dev Quote
+
+> "Code is not just logic — it's creativity turned into reality."
+
+---
 
 # ✨ Fun Fact
 
@@ -114,3 +168,5 @@ Task management web application with responsive UI and CRUD functionality.
 ### Thanks for visiting my profile 💜
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
