@@ -122,26 +122,6 @@ Task management web application with responsive UI and CRUD functionality.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zinuk-webDev-BD&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Zinuk-webDev-BD/Zinuk-webDev-BD/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 # 🧠 Fun Zone
 
 * 🦉 Night Owl Coder
