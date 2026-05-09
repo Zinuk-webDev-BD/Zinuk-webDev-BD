@@ -86,15 +86,7 @@ Task management web application with responsive UI and CRUD functionality.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zinuk-webDev-BD&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</p>
-
----
 
 # ✨ Fun Fact
 
